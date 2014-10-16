@@ -1,7 +1,5 @@
-lagproxy
-===
-
 Lagproxy is a simple netcat-like TCP proxy that will simulate nasty network lag.
+===
 
 If your webserver is on localhost port 80, you could run lagproxy this way:
 
